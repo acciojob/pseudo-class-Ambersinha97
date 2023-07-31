@@ -3,13 +3,14 @@
 
 .main::before {
 	content: "Before Element ";
-	color: red;
 	font-weight: bolder;
+	color:red;
 
 }
 .main::after {
-	content: " After Element";
 	color: red;
+	content: " After Element";
 	font-weight: bolder;
+	
 	
 }
