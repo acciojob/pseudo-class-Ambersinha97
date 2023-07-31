@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
-
-
+big{
+	color:red;
+}
+/* 
 .main::before {
 	content: "Before Element ";
 	font-weight: bolder;
@@ -11,6 +13,4 @@
 	color: red;
 	content: " After Element";
 	font-weight: bolder;
-	
-	
-}
+} */
