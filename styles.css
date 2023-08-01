@@ -4,7 +4,7 @@
 main::before {
 	content: "Before Element ";
 	font-weight: bolder;
-	color: rgb(255,0,0);
+	background-color: rgb(255,0,0);
 
 }
 main::after {
