@@ -1,16 +1,14 @@
 /*  your css code here. If applicable */
-big{
-	color:rgb (0,0,0);
-}
-/* 
-.main::before {
+
+
+main::before {
 	content: "Before Element ";
 	font-weight: bolder;
 	color:red;
 
 }
-.main::after {
+main::after {
 	color: red;
 	content: " After Element";
 	font-weight: bolder;
-} */
+}
