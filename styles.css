@@ -6,13 +6,13 @@
 }
 main::before{
 	content: "Before Element ";
-	font-weight: bolder;
-	color: rgb(255,0,0);
-	background: rgb(0,0,0);
+	color: #f00;
+	font-size: 20px;
 
 }
 main::after {
-	color: rgb(255,0,0);
+	
 	content: " After Element";
-	font-weight: bolder;
+	color: #f00;
+	font-size: 20px;
 }
