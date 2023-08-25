@@ -1,10 +1,13 @@
 /*  your css code here. If applicable */
 
 
-main::before {
+#container {
+	margin: 20px;
+}
+main::before{
 	content: "Before Element ";
 	font-weight: bolder;
-	background-color: rgb(255,0,0);
+	color: rgb(255,0,0);
 
 }
 main::after {
